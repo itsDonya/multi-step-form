@@ -1,0 +1,16 @@
+/* ubunto regular */
+@font-face {
+  font-family: ubuntu;
+  src: url("../fonts/ubuntu/Ubuntu-Regular.ttf");
+  font-weight: lighter;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: ubuntu;
+}
